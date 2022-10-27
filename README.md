@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my personal Github on my way to become a data scientiest. Have a look at the [showcase]([https://link-url-here.org](https://github.com/leo-schmidt/showcase)) repository to see my recent work.
+This is my personal Github on my way to become a data scientiest. Have a look at the [showcase](https://github.com/leo-schmidt/showcase) repository to see my recent work.
