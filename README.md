@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 This is my personal Github on my way to learning data science. Have a look at the [showcase](https://github.com/leo-schmidt/showcase) repository to see my recent work.
+I am currently enrolled in the [LeWagon Data Science Bootcamp](https://www.lewagon.com/data-science-course) Batch # 1175.
