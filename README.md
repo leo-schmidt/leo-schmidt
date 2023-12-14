@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my personal Github on my way to learning data science. Have a look at the [showcase](https://github.com/leo-schmidt/showcase) repository to see my recent work.
-I am currently enrolled in the [LeWagon Data Science Bootcamp](https://www.lewagon.com/data-science-course) Batch # 1175.
+This is my personal Github on my way to learning data science. I have successfully completed the [LeWagon Data Science Bootcamp](https://www.lewagon.com/data-science-course) in July 2023.
+Currently focussing on gaining more experience in ETL pipelines through personal and professional projects.
