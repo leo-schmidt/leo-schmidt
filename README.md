@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my personal Github on my way to learning data science. I have successfully completed the [LeWagon Data Science Bootcamp](https://www.lewagon.com/data-science-course) in July 2023.
-Currently focussing on gaining more experience in ETL pipelines through personal and professional projects.
